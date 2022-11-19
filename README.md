@@ -10,6 +10,8 @@ With this calculator you can get following results:
   * Additional option for including seam allowance to size
 
 At the moment the only available language for the interface is Russian.
+
+You can download .exe file so you can run this program without installing Python here: https://github.com/Catophony/stitch_calculator/blob/main/stitch_calculator.exe
   
 
 ### v1.0
@@ -27,6 +29,9 @@ First version. Only available in russian language.
   * Имеется дополнительная опция для включения в размеры припуска
 
 В настоящее время интерфейс программы доступен только на русском языке.
+
+Вы можете скачать .exe-файл, чтобы запускать программу, не устанавливая Python, здесь:
+https://github.com/Catophony/stitch_calculator/blob/main/stitch_calculator.exe
   
 
 ### v1.0
