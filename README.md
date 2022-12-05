@@ -12,6 +12,8 @@ With this calculator you can get following results:
 At the moment the only available language for the interface is Russian.
 
 You can download .exe file so you can run this program without installing Python here: https://github.com/Catophony/stitch_calculator/blob/main/stitch_calculator.exe
+
+In case when you run this on Windows - program supports only versions since Windows 10.
   
 
 ### v1.0
@@ -32,6 +34,8 @@ First version. Only available in russian language.
 
 Вы можете скачать .exe-файл, чтобы запускать программу, не устанавливая Python, здесь:
 https://github.com/Catophony/stitch_calculator/blob/main/stitch_calculator.exe
+
+В случае запуска на Windows программа поддерживает только версии системы, начиная с Windows 10.
   
 
 ### v1.0
